@@ -3,6 +3,12 @@
   "summary": "The meeting focused on finalizing the EcoGlow campaign, collecting updated feedback, and creating marketing content drafts.",
   "generated_tasks": [
     {
+      "person": "Riya",
+      "task": "Finalize campaign",
+      "deadline": "2025-11-10",
+      "status": "Pending"
+    },
+    {
       "task": "Finalize EcoGlow campaign design",
       "assignee": "Riya",
       "deadline": "2025-11-10T17:00:00+05:30",
